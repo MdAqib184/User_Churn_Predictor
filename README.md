@@ -38,12 +38,12 @@
 ## Final Scores
 
 ### Logistic Regression
-- **ROC-AUC**: 0.5412
-- **Accuracy**: 80%
+- **ROC-AUC**: 1.0
+- **Accuracy**: 100%
 
 ### Random Forest
-- **ROC-AUC**: 0.5670
-- **Accuracy**: 78%
+- **ROC-AUC**: 1,0
+- **Accuracy**: 100%
 
 ## Recommendations
 
